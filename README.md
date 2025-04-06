@@ -1,6 +1,6 @@
 # 👟 Wave Shoes Store Dashboard
 
-A visually rich, live-interactive dashboard built using **Google Looker Studio** to analyze the performance of Wave Shoes Store. It provides valuable business insights like overall sales, costs, and profits, helping in data-driven decision-making.
+A Visually rich, live-interactive dashboard built using **Google Looker Studio** to analyze the performance of Wave Shoes Store. It provides valuable business insights like overall sales, costs, and profits, helping in data-driven decision-making.
 
 ---
 
