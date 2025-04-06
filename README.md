@@ -32,9 +32,15 @@ Among all regions, Uttar Pradesh generated the highest profit, closely followed 
 
 ## 👨‍💻 Created By
 
-**[Naren Jamdar]**
+**Naren Jamdar**
 
 📬 Feel free to connect or give feedback!
+
+---
+
+## Contact
+
+For any questions or feedback, please reach out to [nar-en57](https://github.com/nar-en57).
 
 ---
 
